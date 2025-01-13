@@ -4,4 +4,7 @@ title: Home
 ---
 
 # Welcome to StudyWithBuddy!
-This is a simple GitHub Pages site powered by Jekyll.
+## Menu
+- [Home](index.md)
+- [Privacy Policy](privacy-policy.md)
+- [Support](support.md)
